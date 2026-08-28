@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Academic Open Book & Question/Spark motif centered strictly in 66dp safe zone (21dp to 87dp) -->
+    <!-- Soft back glow / shadow -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M54,77 L34,67 L34,42 L54,50 L74,42 L74,67 Z" />
+    
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#F0FDFC"
+        android:pathData="M52,72 C46,69 36,67 32,68 L32,46 C36,45 46,47 52,50 Z" />
+    
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M56,72 C62,69 72,67 76,68 L76,46 C72,45 62,47 56,50 Z" />
+    
+    <!-- Center spine accent -->
+    <path
+        android:fillColor="#99F6E4"
+        android:pathData="M53,49 L55,49 L55,73 L53,73 Z" />
+
+    <!-- Socratic Question Spark / Flame of Discovery rising from the book -->
+    <!-- Main inquiry bulb/spark -->
+    <path
+        android:fillColor="#FDE68A"
+        android:pathData="M54,27 C50,27 47,30 47,34 C47,36.5 48.5,38.5 50.5,39.5 L50.5,41 C50.5,41.5 51,42 51.5,42 L56.5,42 C57,42 57.5,41.5 57.5,41 L57.5,39.5 C59.5,38.5 61,36.5 61,34 C61,30 58,27 54,27 Z" />
+
+    <!-- Sparkle rays -->
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M54,23 L54,25 M54,23 L54,25"
+        android:strokeColor="#FEF08A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round" />
+    <path
+        android:strokeColor="#FEF08A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M44,28 L46,29.5" />
+    <path
+        android:strokeColor="#FEF08A"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M64,28 L62,29.5" />
+</vector>

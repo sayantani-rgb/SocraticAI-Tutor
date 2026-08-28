@@ -1,0 +1,6 @@
+{
+  "name": "Socratic",
+  "description": "An AI-Powered Socratic Tutor that helps students learn through guided questions and active discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
